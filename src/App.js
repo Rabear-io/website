@@ -5,7 +5,7 @@ const App = () => {
     <>
       <div className="rabear__io">
         <div className="rabear__main">
-          Work in Progress
+          Under Maintenance...
         </div>
       </div>
     </>
